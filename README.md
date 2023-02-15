@@ -2,7 +2,7 @@
 
 Face generation with DCGAN and SNGAN on CelebA dataset
 
-![Face](Results.png)
+![Face](./Results.png)
 
 FID: 25.986
 
